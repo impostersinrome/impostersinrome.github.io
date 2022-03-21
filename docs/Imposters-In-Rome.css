@@ -1,0 +1,101 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("/images/IIR26.jpg");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 304px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 251px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 192px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 144px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 91px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 77px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.125rem;
+  width: 740px;
+  margin: 39px auto 18px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 525px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 400px;
+  margin: 63px 158px 63px 181px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-custom-html-1 {
+    height: auto;
+    width: 803px;
+    margin-left: 81px;
+    margin-right: 58px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-custom-html-1 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-custom-html-1 {
+    width: 340px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 177px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 900;
+  margin: 60px auto;
+}
