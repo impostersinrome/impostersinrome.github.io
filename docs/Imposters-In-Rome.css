@@ -107,4 +107,15 @@
 .u-section-4 .u-text-1 {
   font-weight: 900;
   margin: 60px auto;
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-5 .u-text-1 {
+  font-family: DotGothic16;
+  margin: 60px auto;
 }
